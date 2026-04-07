@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://conversio-ao-new.vercel.app/sitemap.xml
